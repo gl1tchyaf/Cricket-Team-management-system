@@ -1,0 +1,1 @@
+ Sakib AllRounder 32 400000  Tamim Batsman 30 400000  Mashrifi Bowler 35 4000000  Musfiqur WicketKeeper 31 400000  Sabbir Batsman 27 3000000  Mahmudullah AllRounder 33 400000  mustafiz Bowler 23 300000  Somya Batsman 26 300000  Rubel Bowler 29 300000  Imrul Batsman 30 300000  MehediMiraz Allrounder 21 300000 
